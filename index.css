@@ -1,0 +1,154 @@
+
+.homepage {
+    background-image:url("https://wallpapers.com/images/hd/travel-the-world-r6ao4m8c15q1ok3r.jpg") ;
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.mention {
+    padding: 20px;
+    color: black;
+    margin-top: 250px;      
+}
+.topline{
+    display: flex;
+    justify-content: space-around;   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #536284;
+     
+}
+
+.TRAVELS{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.homeBanner {
+        margin: 0;
+       
+     
+       width: 850px;
+       text-align: center;
+       
+      }
+      .frontHeading{
+        font-family:"bree serif";
+        font-size: xx-large;
+        font-weight: bold;
+      }
+      .frontpara{
+        font-weight: 200;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: x-large;
+        text-align: center;
+        
+      }
+      .aboutpage{
+        background-color: #b345372c;
+        text-align: center;
+        align-items: center;
+        background-image: url("https://media-hosting.imagekit.io//a312a53c908d4aa7/6S_TRAVELS__2___1_-removebg-preview.png?Expires=1833600359&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=iwsRBg7CFGMnYWlGOwIvO5ewqobck5rgsRqthzOS5SKBkuQsYih~FvmAhzqZyFsZCFDRRw5hmNYd~euwyXr6cR4iyyYrHKNmlAhqaUeA5ES5YMEeEKer8kEQ1RzdYVMVGckJtDlvUgyOUehbsTKkwhCx8BUyx4sgHGsYoaFjdiR4wfi8jG00nAb~PXP2nqXj56995Ta~mu9UJpIXGNDJxIk~bXJAw2SnKfn3pycQ6AyEBOtm9ftAvm23AucQMpePiAiRl62uHwStkelYKm~85urlhyeKdOnjHNGig~fj~titUwhvs1ArSfCCzPB90EQZKBK4oG0i~pmccveCBIBbjQ__");
+        background-size: cover;    
+        padding: 40px;  
+      }
+      .aboutus{
+        padding:10px;
+        font-family:Georgia, 'Times New Roman', Times, serif ;
+        font-size: 40px;
+        text-align: center;
+        
+        
+      }
+      .headline{
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 100;
+        margin: 10px;
+        
+      }
+      .downline{
+        font-family: 'Times New Roman', Times, serif;
+        margin: 35px;
+        font-size: medium;
+        color: black;
+      }
+.MAIN{
+background-color: whitesmoke;
+    color: black;
+    border: 2px solid black;
+    margin: 100px;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    font-style:Georgia, 'Times New Roman', Times, serif;
+    button{background-color: #d7dbde;}
+}
+.LARGE {
+    background-color:whitesmoke;
+    color: black;
+    border: 2px solid black;
+    margin: 100PX;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    button{background-color: #d7dbde;}
+   
+
+}
+.BORDER{
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid black;
+    margin: 100px;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    button{background-color: #d7dbde;}
+}
+ .TRAVEL {
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid black;
+    margin: 100px;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    button{background-color: #d7dbde;}
+}
+
+.card-container {
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid black;
+    margin: 100px;
+    padding: 10px;
+    text-align: center;
+    button{background-color: #d7dbde;}
+}
+.description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: medium;
+}
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    height: 60px;
+    width: 180px;
+}
+
+   
+    
+
+  
+    
+    
+    
